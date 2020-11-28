@@ -1,2 +1,1 @@
-# android_device_iris65
-android_device_iris65
+# android_device_lava_iris65
